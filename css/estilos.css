@@ -2,24 +2,9 @@ body{
     color:#4e184a;
     text-align: left;
     font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
-
-#cabecera p{
-    background-color: #170c7a;
-    color: white;
-    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.5);
+    font-size: 16px;
     margin: 0;
-    padding: 8px;   
-    font-weight: bold; 
-}
-
-#cabecera p  #tagline{
-    background: #33A;
-    color:white;
-    padding-left: 15px;
-    font-weight: 100; 
-    font-size:smaller;
+    padding: 0;
 }
 
 #cabecera 
@@ -32,16 +17,12 @@ body{
     padding: 0.5em;
 }
 
-
-
-#cabecera #stagline
-{
-    background:#33A;
-    padding: 8px;
-    font-weight: normal;
-    font-size: 0.8cm;
-
+#cabecera  #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal; 
+    font-size: 0.8em;
 }
+
 
 #container{
     width: 70%;
