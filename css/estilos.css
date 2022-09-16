@@ -15,10 +15,20 @@ body{
 }
 
 #cabecera p  #tagline{
+    background: #33A;
     color:white;
     padding-left: 15px;
     font-weight: 100; 
     font-size:smaller;
+}
+
+#cabecera #stagline
+{
+    background:#33A;
+    padding: 8px;
+    font-weight: normal;
+    font-size: 0.8cm;
+
 }
 
 #container{
