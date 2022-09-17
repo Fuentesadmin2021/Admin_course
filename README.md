@@ -8,6 +8,7 @@ EN este repositorio se encuentra un blog, que se realizo atravez de las practica
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
- * Las personalidades múltiples de Freddy
+* Las personalidades múltiples de Freddy
+* Curso creado por el increible Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado como practica. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
